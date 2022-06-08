@@ -1,13 +1,11 @@
-# README
-## This is the README for your extension "amathyst"
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Amathyst
 
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
+Amathyst is one of the most suitable and vibrant themes liked by most developers
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## GitHub
 
-**Enjoy!**
+[TechnicalShampy] (https://github.com/tech-shamp)
+
+### Guarantee
+
+I can guarantee that you are obviously going to love it
